@@ -1,0 +1,3 @@
+saranya katta
+Bsc computers
+repository acts as directory we can create multiple files
